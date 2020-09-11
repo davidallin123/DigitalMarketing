@@ -10,7 +10,8 @@
 <br>
 <a href="https://digitalseye.com/em/elements-of-email-marketing/" target="_blank">Boost “Email Open Rate” by 3 Elements of Email Marketing</a>
 <br>
-
+<a href="https://digitalseye.com/em/getresponse-60-days-free-trial-pricing/" target="_blank">Getresponse 60 days free trial</a>
+<br>
 
 </body>
 </html>
